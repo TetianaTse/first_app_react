@@ -1,0 +1,14 @@
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #dcd9d9;
+    & ul {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 55%;
+    }
+    & .img_logo {
+        height: 40px;
+    }
+}

@@ -1,0 +1,17 @@
+[
+    {   "id": "1",
+        "name": "New York, United States",
+        "description": "The bright lights of the Big Apple make it an iconic destination. Cruise through our New York travel packages to find classic luxury NYC hotels in the Upper East Side, a stone’s throw from Central Park, or seek out cheap and cheerful places to stay a few subway stops from Manhattan. With your vacation package to New York locked in, book tickets to take in the sights from the Top of the Rock or cross the harbor on the Staten Island Ferry to wave at the Statue of Liberty. If you’d rather sidestep the tourist hotspots, venture out to Brooklyn, catch a Yankees baseball game, or book a vacation package for Christmas in New York—something truly special.",
+        "images":"./images/new_york.jpg"
+    },
+    {   "id": "2",
+        "name": "Your Italy Vacation",
+        "description":"Universally adored, Italy is food, is weather, is history. There’s always something different to fall head over heels for in the boot-shaped nation. Travel packages to Italy tend to start in the historic cities—Rome, Florence, Venice or Milan—where elegant design, Roman architecture, and sophisticated hotels reign supreme. From there, Italy family vacation packages could wander to the pretty Puglian beaches or into the rolling Tuscan countryside. Alternatively, you could cruise the Amalfi Coast or explore Venice’s canals by gondola on a quintessential romantic Italy vacation package. Wherever you head, it’s guaranteed to be bellissimo!",
+        "images":"./images/italy.jpg"
+    },
+    {   "id": "3",
+        "name": "Your Hawaii Vacation",
+        "description":"Aloha, ocean views, sandy shores, and sunny climes—you’re on the ultimate Hawaii travel package. Surfing in Maui, whale watching in Kauai: Epic family vacation activities are endless across the archipelago’s six main islands: Kauai, Oahu, Molokai, Lanai, Maui, and Hawaii Island AKA Big Island. On the best Hawaii vacation packages for couples, you absolutely must plan an adrenaline-pumping visit to Hawaii Volcanoes National Park on Big Island. Here, a pair of lava-bubbling active volcanoes make this the hottest vacation ever. And when you’ve done exploring the dramatic scenery, relax, unwind, and indulge at one of Hawaii's many luxury hotels.",
+        "images":"./images/Hawaii.jpg"
+    }
+]
